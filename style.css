@@ -1,0 +1,24 @@
+.orange{color: orange;}
+section{display: flex;
+margin-left: 5%;
+margin-right: 5%;}
+body{font-family: 'Poppins', sans-serif;
+margin-top: 5%;}
+.half{width: 50%;}
+.button{text-decoration: none;
+background-color: orange;
+padding: 10px;
+border-radius: 30px;
+}
+.middle{text-align: center;
+margin-left: 25%;
+margin-right: 25%;}
+.half2{ width: 95%;
+margin-top: 2%;
+margin-left: 2.5%;}
+.shadow{  box-shadow: 10px 10px 40px #3a3737;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 20px;
+}
+.left{margin-left: 2.5%;}
